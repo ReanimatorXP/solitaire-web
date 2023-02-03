@@ -1,11 +1,11 @@
 [project]
-title = Solitaire Remake
+title = Solitaire
 version = 1.0
 write_log = 0
 compress_archive = 1
 publisher = unnamed
 developer = unnamed
-title_as_file_name = SolitaireRemake
+title_as_file_name = Solitaire
 
 [display]
 width = 320
