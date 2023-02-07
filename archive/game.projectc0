@@ -1,6 +1,6 @@
 [project]
 title = Solitaire
-version = 1.2b
+version = 1.2c
 write_log = 0
 compress_archive = 1
 publisher = unnamed
